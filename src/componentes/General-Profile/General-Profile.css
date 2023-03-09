@@ -6,3 +6,12 @@
   margin-left: 2vw;
   margin-top: 2vw;
 }
+
+img {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 10rem;
+  height: 10rem;
+  padding: 1.4vh 2vw 1.4vh 2vw;
+}
