@@ -1,0 +1,18 @@
+.container-Most-Played-Champions {
+    height: 70vh;
+    width: 35vw;
+    background: #0a323c;
+    border-radius: 8px;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+    display: inline-block;
+    margin-left: 2vw;
+}
+
+#text {
+    font-family: "Inter";
+    font-style: normal;
+    color: #f0e6d2;
+}

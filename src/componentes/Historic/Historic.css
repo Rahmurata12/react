@@ -1,0 +1,17 @@
+.container-Historic {
+    height: 70vh;
+    width: 55vw;
+    background: #0A323C;
+    border-radius: 8px;
+    align-items: center;
+    text-align: center; 
+    margin-bottom: 2vh;
+    display: inline-block;
+    margin-left: 3vw;
+  }
+  
+  #text {
+    font-family: 'Inter';
+    font-style: normal;
+    color: #F0E6D2;
+  }
