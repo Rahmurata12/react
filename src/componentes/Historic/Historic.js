@@ -1,5 +1,6 @@
 import './Historic.css';
 
+
 function Historic() {
     return (
         <div className="container-Historic">
@@ -7,6 +8,7 @@ function Historic() {
         </div>
     );
   }
+
   
   export default Historic;
   

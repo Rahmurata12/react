@@ -1,9 +1,8 @@
-import './Nav-bar.css';
+import './Nav-Bar.css';
 
 function NavBar() {
     return (
-        <header>
-            
+        <header>      
         </header>
     );
   }
